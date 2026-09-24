@@ -20,3 +20,10 @@ Universo de discurso: **a ∈ [−50, 50] cm** (valores negativos = obstáculo m
 linguísticos: **{Negativa, Zero, Positiva}**
 
 <img width="434" height="252" alt="image" src="https://github.com/user-attachments/assets/40eed0d9-a433-4fb2-a756-989b8a918716" />
+
+### Variável de saída — Ângulo de direção (θ)
+
+Universo de discurso: **θ ∈ [−45°, 45°]** (negativo = virar à esquerda, positivo = virar à direita). Termos linguísticos:
+**{Virar Esquerda, Seguir em Frente, Virar Direita}**
+
+<img width="434" height="252" alt="image" src="https://github.com/user-attachments/assets/7a480563-af0e-4a74-b3fa-dd8ea6103713" />
