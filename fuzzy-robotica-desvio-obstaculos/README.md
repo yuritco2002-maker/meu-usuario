@@ -1,6 +1,6 @@
 # Controle Fuzzy para Desvio de Obstáculos em Robótica Móvel
 
-Este projeto consistem em um sistema de controle de desvio de obstáculos a ser utilizado em robôs sendo aplicado à lógica fuzzy.
+Este projeto consiste em um sistema de controle de desvio de obstáculos a ser utilizado em robôs sendo aplicado à lógica fuzzy.
 
 ## Especificação do sistema fuzzy
 
@@ -27,3 +27,14 @@ Universo de discurso: **θ ∈ [−45°, 45°]** (negativo = virar à esquerda, 
 **{Virar Esquerda, Seguir em Frente, Virar Direita}**
 
 <img width="434" height="252" alt="image" src="https://github.com/user-attachments/assets/7a480563-af0e-4a74-b3fa-dd8ea6103713" />
+
+## Base de regras fuzzy
+
+A base de regras fuzzy deste projeto é mostrado na tabela a seguir:
+
+<img width="838" height="168" alt="image" src="https://github.com/user-attachments/assets/d4992522-7667-4db4-8993-6a6640190f78" />
+
+## Autor e disciplina
+
+Autor: Yuri Teixeira Cavalcante de Oliveira
+
